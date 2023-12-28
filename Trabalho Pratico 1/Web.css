@@ -1,0 +1,38 @@
+*{
+    margin:6px;
+}
+#inicio{
+    font-family: sans-serif;
+    color: #121311;
+    font-size: 50px;
+}
+#cabecalho{
+    background-color:#2eb640;
+}
+#estilo1{
+    background-color: #2eb64065;
+}
+ul li{
+    font-size: 30px;
+}
+#imagemdoprof{
+    border-radius:50%;
+}
+.estilo2{
+    background-color: #2eb64065;
+    font-size:28px;
+    margin:30px;
+    padding:20px;
+}
+#botao{
+    background-color:#2eb640;
+    border-radius:20%;
+    width:300px;
+    height:100px;
+    align-items:center;
+    font-size:26px;
+}
+.final{
+    font-size:18px;
+    font-family:monospace;
+}

@@ -1,0 +1,45 @@
+*{
+    margin: 6px;
+}
+.fonte0 {
+    font-family: "Times New Roman";
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+.fonte1{
+    display: inline-block;
+    vertical-align:top;
+}
+#titulo {
+    font-family: sans-serif;
+    color: black;
+    font-size: 50px;
+}
+#cabecalho {
+    background-color: green;
+}
+ul li{
+    font-size: 30px;
+}
+h2{
+    font-size: 30px;
+}
+#imagemdoprof{
+    border-radius: 50%;
+}
+#botao{
+    background-color:green;
+    border-radius:20%;
+    width:300px;
+    height:100px;
+    align-items:center;
+    font-size:26px;
+}
+.final{
+    font-size:18px;
+    font-family:monospace
+}
+#lista{
+    font-size: 30px;
+    color:#a5b29e;
+}

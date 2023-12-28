@@ -1,0 +1,47 @@
+#titulo{
+    font-family: sans-serif;
+    color: #121311;
+    font-size: 50px;
+}
+#cabecalho{
+    background-color:#2eb640;
+}
+.estilo0{
+    font-family: "Times New Roman";
+    color: rgb(0, 0, 0);
+    font-size: 30px
+}
+.estilo2{
+    margin:30px;
+    padding:20px;
+    background-color: #b1fad2;
+    font-family:Arial;
+}
+ul li{
+    font-size:30px;
+}
+#imagemdoprof{
+    border-radius: 50%;
+}
+body{
+    margin:20px;
+}
+h2{
+    padding-left:120px;
+    margin:50px;
+}
+a{
+    font-size:35px;
+}
+#botao{
+    background-color:#2eb640;
+    border-radius:20%;
+    width:300px;
+    height:100px;
+    align-items:center;
+    font-size:26px;
+}
+.final{
+    font-size:18px;
+    font-family:monospace;
+}

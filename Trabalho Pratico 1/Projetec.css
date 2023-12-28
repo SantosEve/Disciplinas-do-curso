@@ -1,0 +1,47 @@
+#titulo{
+    font-family: sans-serif;
+    color: #121311;
+    font-size: 50px;
+}
+#cabecalho{
+    background-color:#5abb67;
+}
+.estilo0{
+    font-family: "Times New Roman";
+    color: rgb(0, 0, 0);
+}
+.estilo1{
+    margin:30px;
+    padding:20px;
+    background-color: #59af805d;
+    font-family:"BlinkMacSystemFont";
+}
+li{
+    font-size:30px;
+}
+#imagemdaprof{
+    border-radius: 50%;
+}
+body{
+    margin:40px;
+}
+h2{
+    padding-left:120px;
+    margin:50px;
+}
+#botao{
+    background-color:#5abb67;
+    border-radius:20%;
+    width:300px;
+    height:100px;
+    align-items:center;
+    font-size:26px;
+    cursor:pointer;
+}
+.final{
+    font-size:18px;
+    font-family:monospace;
+}
+a{
+    font-size:35px;
+}
